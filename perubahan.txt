@@ -1,0 +1,16 @@
+1. Tabel Jadwal Pusling di home dan admin (selesai)
+No | Tanggal | Waktu | Lokasi
+
+2. User Managament, Fitur Filter dihilangkan (selesai)
+
+3. Tambah Level User, Kabid (Kepala Bidang) (selesai)
+
+4. Perbaiki laporan 
+
+5. Tambah Daftar Buku
+    Tambah Inputan :
+    a. Eksemplar (Jumlah Inputan Sesuai Dengan jumlah Eksemplar)
+    b. Klasifikasi (Jadi Form Biasa)
+    c. Call
+    d. Kode Buku dihilangkan, akan otomatis dibuatkan oleh sistem
+
